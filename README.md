@@ -1,0 +1,2 @@
+# NANO Token
+### Crypto tokens are digital assets that are built on top of an existing blockchain (using smart contracts) and can serve a wide variety of functions, from representing a physical object to granting access to platform-specific services and features.
