@@ -5,7 +5,7 @@ import Iter "mo:base/Iter";
 
 actor Token {
 
-  let owner : Principal = Principal.fromText("kxxwb-2qfgb-jybis-wpok2-izxvd-2ng77-23wh5-iiyr3-ukdxp-6oamk-5qe");
+  let owner : Principal = Principal.fromText("<REPLACE WITH YOUR PRINCIPAL>");
   let totalSupply : Nat = 1000000000;
   let symbol : Text = "NANO";
 
