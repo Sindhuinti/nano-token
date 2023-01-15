@@ -1,7 +1,7 @@
 # NANO Token
 > This repository contains information about the `NANO Token` , which is built on the `Internet Computer` blockchain. The Internet Computer is a decentralized platform that allows for the creation and transfer of tokens.
 
-## What is Token Name?
+## What is NANO?
 > NANO token is a digital asset that can be used as a form of payment, a store of value, or a representation of a physical or virtual asset. It is built on top of the Internet Computer and can be transferred between users on the blockchain.
 
 ## How to get NANO ?
